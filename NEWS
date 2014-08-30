@@ -1,0 +1,4 @@
+What was new in version 0.1
+
+* First release of isvd, a collection of incremental singular value 
+decomposition routines for GSL
